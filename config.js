@@ -1,5 +1,5 @@
 const config = {
-  "tokenContractAddress": "0x10EE9FcE3a260C1bcE3C2f0E98F1CF0F527a433b",
+  "tokenContractAddress": "0xe7449F26E8E1A317eD7BB6E13eA76CF0b45758Fc",
   "tokenContractABI": [
       {
         "inputs": [
@@ -255,7 +255,7 @@ const config = {
       }
   ],
 
-  "riceContractAddress": "0x0B1439E68dB91031d6465dfD848567043250826A",
+  "riceContractAddress": "0xE25e1608393B45fCa727aEeEc59bD415066302AA",
   "riceContractABI": [
     {
       "inputs": [
